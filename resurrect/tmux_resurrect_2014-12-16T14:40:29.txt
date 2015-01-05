@@ -1,0 +1,9 @@
+pane	0	0	:bash	1	:*	0	:/home/ganis	1	bash	:
+pane	1	0	:bash	0	: 	0	:/home/ganis	1	bash	:
+pane	1	1	:vimo-code	0	:-	0	:/home/ganis	1	bash	:
+pane	1	2	:vimo-bash	1	:*	0	:/home/ganis	1	bash	:
+window	0	0	1	:*	d6fd,356x88,0,0,0
+window	1	0	0	: 	d6fe,356x88,0,0,1
+window	1	1	0	:-	d6ff,356x88,0,0,2
+window	1	2	1	:*	d701,356x88,0,0,4
+state	1	0

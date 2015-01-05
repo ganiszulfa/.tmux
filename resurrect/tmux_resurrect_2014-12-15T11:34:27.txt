@@ -1,0 +1,8 @@
+pane	0	0	:[tmux]	1	:*	0	:/home/ganis	1	bash	:
+pane	1	0	:bash	0	:-	0	:/home/ganis	1	bash	:
+pane	1	1	:vi	1	:*	0	:/home/ganis	0	bash	:
+pane	1	1	:vi	1	:*	1	:/home/ganis	1	vi	:vi
+window	0	0	1	:*	d6fd,356x88,0,0,0
+window	1	0	0	:-	d700,356x88,0,0,3
+window	1	1	1	:*	68df,356x88,0,0{178x88,0,0,4,177x88,179,0,5}
+state	1	

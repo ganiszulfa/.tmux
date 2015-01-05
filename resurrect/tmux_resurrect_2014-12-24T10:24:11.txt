@@ -1,0 +1,19 @@
+pane	0	0	:bash	1	:*	0	:/home/ganis	1	bash	:
+pane	1	0	:bash	0	: 	0	:/home/ganis	1	bash	:
+pane	1	1	:vimo-code	0	: 	0	:/home/ganis/code/svn/Merge_141128/ViMo-S	1	vi	:vi
+pane	1	2	:vimo-bash	0	: 	0	:/home/ganis/code/svn/Merge_141128/ViMo-S	1	bash	:
+pane	1	3	:lx-U-code	0	: 	0	:/home/ganis/code/milestone141117/linux-kvm-arm-ramdisk	1	vi	:vi
+pane	1	4	:lx-U-bash	0	: 	0	:/home/ganis/code/milestone141117/linux-kvm-arm-ramdisk	1	bash	:
+pane	1	5	:bash	0	: 	0	:/home/ganis/code/xvisor	1	vi	:vi
+pane	1	6	:bash	0	:-	0	:/home/ganis	1	bash	:
+pane	1	7	:bash	1	:*	0	:/home/ganis/code/qemu-vos/qemu	1	bash	:
+window	0	0	1	:*	d6fd,356x88,0,0,0
+window	1	0	0	: 	d6fe,356x88,0,0,1
+window	1	1	0	: 	d6ff,356x88,0,0,2
+window	1	2	0	: 	d700,356x88,0,0,3
+window	1	3	0	: 	d701,356x88,0,0,4
+window	1	4	0	: 	d702,356x88,0,0,5
+window	1	5	0	: 	d703,356x88,0,0,6
+window	1	6	0	:-	d704,356x88,0,0,7
+window	1	7	1	:*	d705,356x88,0,0,8
+state	1	0
